@@ -92,7 +92,7 @@ export const FooterSubHeading = styled.p`
 export const FooterSubText = styled.p`
   margin-bottom: 20px;
   font-size: 20px;
-  color: springgreen;
+  color: navy;
 `;
 
 
