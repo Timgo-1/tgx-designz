@@ -5,7 +5,7 @@ const GlobalStyle = createGlobalStyle`
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Lobster Two', cursive;
+  font-family: 'Lobster Two', sans-serif;
 }
 `;
 
